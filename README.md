@@ -1,2 +1,7 @@
-# blog
-Este é o repositório onde alojo o meu pequeno blog
+# Blog
+
+Isto é o repositório que aloja o meu pequeno blog. Ele é feito com Hugo!
+
+## Contexto do Blog
+
+Eu sempre quis ter o meu próprio espaço *online*, mas nunca tive a oportunidade / capacidade de o fazer. Alguns anos passaram-se e eu fiquei apaixonado pela filosofia *Open Source*. Não só a minha forma de pensar sobre programas mudou, como todo o aspeto da minha presença *online*. É por causa disso, que vi a necessidade de procurar conhecer mais sobre todo o processo de criar um sítio web. Eu já tinha o conhecimento básico sobre HTML e CSS, mas sempre tomei o processo como algo demasiado trabalhoso. Após ver o [vídeo do Luke Smith, sobre Hugo](https://www.youtube.com/watch?v=ZFL09qhKi5I), a minha vida mudou. Aprendi sobre [Markdown](https://www.markdownguide.org/) e também a utilizar [Hugo](https://gohugo.io/). Com o Markdown, crio todos os documentos da minha universidade. Isso tornou-me bastante familiarizado com a forma de escrever em Markdown. Hugo demorou um pouco mais, mas nunca foi um grande desafio. Mesmo com este conhecimento, eu apenas criava sítios web *offline*. Nunca tive a coragem de os transportar para o *online*. Foi apenas quando estava na Universidade, que fui confrontado com a plataforma [Netlify](https://www.netlify.com/) e, nessa altura, percebi conseguir exportar todo o código gerado pelo Hugo, para o Netlify. Isso deu-me a capacidade de conceber o projeto. Mesmo assim, ele ainda demorou algum tempo, porque ainda não tinha a ideia clara do que criar para a *internet*. Foi após ver o [vídeo do BugsWriter](https://youtu.be/rS9UsJuHeAQ) que percebi poder simplesmente escrever qualquer coisa para a *internet*. Eu, então, fiz um diário *online*.

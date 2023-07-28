@@ -1,0 +1,49 @@
+baseURL = 'https://miraiy.netlify.app/'
+languageCode = 'pt-pt'
+title = 'Miraiy'
+theme = "hugo-classic"
+
+enableEmoji = true
+footnotereturnlinkcontents = "↩"
+googleAnalytics = ""
+ignoreFiles = ["\\.Rmd$", "_files$", "_cache$"]
+
+[markup.goldmark.renderer]
+unsafe = true
+
+[markup.highlight]
+anchorLineNos = false
+codeFences = true
+guessSyntax = false
+hl_Lines = ""
+lineAnchors = ""
+lineNoStart = 1
+lineNos = false
+lineNumbersInTable = true
+noClasses = true
+style = "monokai"
+tabWidth = 4
+
+[permalinks]
+post = "/post/:year/:month/:day/:slug/"
+
+[[menu.main]]
+name = "Postagens"
+url = "/post/"
+weight = 1
+[[menu.main]]
+name = "Categorias"
+url = "/categories/"
+weight = 2
+[[menu.main]]
+name = "Tags"
+url = "/tags/"
+weight = 3
+[[menu.feed]]
+name = "RSS"
+url = "/index.xml"
+
+[params]
+custom_css = ["css/theme-override.css"]
+description = "A simple, minimal blog for those who love text."
+footer = "Miraiy, 2023 | [#Links-Uteis](https://rentry.org/linksuteis) • [MyAnimeList](https://myanimelist.net/profile/Miraiy) • [Letterboxd](https://letterboxd.com/Miraiy/) • [Last.FM](https://www.last.fm/user/Miraiy) • [Backloggd](https://www.backloggd.com/u/Miraiy/)"
